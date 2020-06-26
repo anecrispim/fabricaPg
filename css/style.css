@@ -103,11 +103,15 @@ button:focus {
     .section_gap_bottom {
       padding-bottom: 80px; } }
 
+.rotated {
+  transform: rotate(45deg);
+}
+
 /* Main Title Area css
 ============================================================================================ */
 .main_title {
   text-align: center;
-  margin-bottom: 100px; }
+  margin-bottom: 40px; }
   @media (max-width: 1199px) {
     .main_title {
       margin-bottom: 50px; } }
